@@ -11,7 +11,6 @@ multi line comment */
 
 
 /* Format my paragraph */
-/* The point here is to create a format for all text. The p and h1 mean it applies to all code with those tags*/
 p {
 	font-size: 18px;
 	margin: 5px 5px;
